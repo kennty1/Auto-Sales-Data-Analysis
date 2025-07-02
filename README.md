@@ -80,7 +80,6 @@ GROUP BY PRODUCTLINE;
 SELECT CONTACTFULLNAME,MIN(SALES) FROM [dbo].[Auto Sales data]
 group by CONTACTFULLNAME
 ORDER BY CONTACTFULLNAME DESC;
----
 
 ## 3.Power Bi Dashboard
 #### https://ibb.co/zTPXDVGr
