@@ -67,6 +67,7 @@
 
 ## 3.Power Bi Dashboard
 #### https://ibb.co/zTPXDVGr
+#### https://ibb.co/g2hsHt3
 ---
 # Findings
 ### 1. Most Orders Are Shipped:
