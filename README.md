@@ -58,25 +58,33 @@
 + POWER BI
 + SQL
 ---
-  
-  
 # Analysis and Insight 
 ## 1.Excel Dashboard
-#### https://ibb.co/pvsTBPvH
+#### https://ibb.co/7t7t5QbM
 
 ## 2.SQL Queries
-#### https://ibb.co/CpWj0mjK
+#### 
 
 ## 3.Power Bi Dashboard
-#### https://ibb.co/QvszvFk3
+#### https://ibb.co/zTPXDVGr
 ---
 # Findings
- ### 1. Majority Education Level: Most employees have a Bachelors degree.
-### 2. Common Cities: The majority of employees are located in Bangalore, followed by Pune and New Delhi.
-### 3. Payment Tier Distribution: Most employees are in PaymentTier 3, indicating a concentration in the highest pay level.
-### 4. Age Range: Employees' ages range from early 20s to late 30s, with many in their 30s.
-### 5. Gender Representation: The dataset includes both Male and Female employees, with a slight male majority.
-### 6. Experience Levels: Experience varies widely, from 0 to 5 years prior to joining.
-### 7. Employee Attrition (LeaveOrNot): There are both leavers (`1`) and stayers (`0`), allowing for predictive modeling on attrition behavior.
+### 1. Most Orders Are Shipped:
+   The majority of the orders in the dataset have a status of "Shipped", indicating a high fulfillment rate and good operational flow.
+### 2. Popular Product Line – Motorcycles:
+   All visible entries are from the Motorcycle product line, suggesting that this product category may be a major revenue driver.
+### 3. Order Volumes Vary:
+   The quantity ordered ranges from small (e.g., 1 unit) to larger bulk orders (up to 66 units), indicating a mix of retail and possible wholesale transactions.
+### 4. Sales Values Differ Widely:
+   The sales amounts (total revenue per order line) vary significantly, showing different pricing tiers and customer spending levels.
+### 5. Geographically Diverse Customers:
+   Customers are located in various countries including the **USA, France, Australia, UK, Norway, and Spain**, highlighting an international customer base.
+### 6. Active Customer Engagement:
+   Each record contains full contact information (phone, address, and names), suggesting that the company maintains detailed CRM (Customer Relationship Management) records.
+
+### 7. Recent Sales Activity:
+   Many order dates fall in 2020, showing relatively recent business activity and suggesting the data is used for current performance monitoring.
+
+
 
 
