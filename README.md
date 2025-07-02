@@ -81,7 +81,6 @@
    Customers are located in various countries including the **USA, France, Australia, UK, Norway, and Spain**, highlighting an international customer base.
 ### 6. Active Customer Engagement:
    Each record contains full contact information (phone, address, and names), suggesting that the company maintains detailed CRM (Customer Relationship Management) records.
-
 ### 7. Recent Sales Activity:
    Many order dates fall in 2020, showing relatively recent business activity and suggesting the data is used for current performance monitoring.
 
