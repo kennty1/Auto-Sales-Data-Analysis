@@ -1,6 +1,6 @@
 # Auto-Sales-Data-Analysis
 
-| ## Column          | ##Description                                                                  |
+|  Column            | Description                                                                  |
 | ------------------ | ------------------------------------------------------------------------------ |
 | `ORDERNUMBER`      | Unique identifier for each order.                                              |
 | `QUANTITYORDERED`  | Number of items ordered.                                                       |
